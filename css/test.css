@@ -1,0 +1,27 @@
+.container-2 {
+    margin: 0;  
+    padding: 0;
+    width: 233.34px;
+    height: 345.34px;
+  }
+  
+  .img {
+    margin: 0;  
+    padding: 0;
+    width: 235px;
+    height: 363px;
+    max-width: 100%; /* Ensure the image does not exceed the container's width */
+  }
+  
+  .text {
+    /* width: 100%; Make the paragraph element stretch to the full width of the container */
+    margin: 0;  
+    padding: 0;
+    white-space: nowrap; /* Prevent words from wrapping */
+    overflow: hidden; /* Clip any content that overflows the boundaries */
+    text-overflow: ellipsis; /* Add ellipsis (...) for the text that overflows */
+  }
+  
+  
+
+  
