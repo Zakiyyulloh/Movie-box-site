@@ -127,6 +127,10 @@ img {
     padding: 0;
 }
 
+.movie-li img {
+    border-radius: 15px;
+}
+
 .movie-li-a {
     color: black;
     font-size: 18px;
